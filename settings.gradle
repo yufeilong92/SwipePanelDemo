@@ -1,0 +1,3 @@
+include ':swipe-panel'
+include ':app'
+rootProject.name = "SwipePanelDemo"
